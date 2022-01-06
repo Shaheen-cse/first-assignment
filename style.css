@@ -1,0 +1,119 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+    padding:0px ;
+}
+section{
+    margin-bottom: 100px;
+
+}
+.head-color{
+    color: rgb(241, 74, 45);
+    background-image: linear-gradient(rgb(239, 243, 243),rgb(251, 255, 255));
+
+}
+.stay-focused{
+    font-weight: bold;
+    background-image: linear-gradient(rgb(226, 215, 226),rgb(152, 216, 207));
+}
+.first-section{
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 80px; 
+}
+#section-1{
+    display: flex;
+}
+
+.first-section img{
+    width: 80%;
+}
+.border-left{
+    border-left: 10px solid rgb(5, 12, 77);
+    padding: 0px 20px;
+}
+a{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(11, 30, 80),rgb(177, 38, 38)) ;
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+    margin-left: 5%;
+}
+#first-pera{
+    margin-left: 5%;
+    font-size: 20;
+    font-weight: bold;
+    color: rgb(67, 62, 83);
+}
+.center{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    background: wheat;
+    color: rgb(46, 37, 37);
+}
+#develop{
+    color: rgb(46, 37, 37);
+}
+#hobby{
+    margin-left:15%;
+}
+
+#pera-2nd{
+    text-align: justify;
+    background-color: whitesmoke;
+
+}
+.item{
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.item-1{
+    background-color: rgb(152, 250, 141);
+}
+.item-2{
+    background-color: rgb(250, 247, 62);
+}
+.item-3{
+    background-color: rgba(44, 255, 255, 0.349);
+}
+#section-2-all{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px; 
+}
+.item img{
+    width: 50%;
+    border-radius: 5%;
+}
+span{
+    color: rgb(255, 102, 0);
+}
+#section-3{
+    display: flex;
+}
+.end-section{
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 80px;
+}
+.end-section img{
+    width:60%;
+}
+#section-4{
+    display: flex;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 10px;
+}
+footer h1{
+    font-family:'Vujahday Script', cursive;
+}
